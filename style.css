@@ -56,24 +56,24 @@ html{
 }
 
 .inicio{
-    background: linear-gradient(to top, rgba(30,25,38,.8), rgba(30,25,38,1)),
+    background: linear-gradient(to top, rgba(30,25,32,.8), rgba(30,25,32,6)),
     url(img/fondo.jpg);
     background-size: cover;
     height: 80vh;
-    color: #08f;
+    color: #fff;
     display: flex;
     align-items: center;
 }
 .inicio .contenido-banner{
     padding: 20px;
-    background-color: #14f326;
+    background-color: #808080;
     max-width: 350px;
     margin: auto;
     text-align: center;
     border-radius: 40px;
 }
 .inicio .contenido-banner img{
-    margin-top: 40px;
+    margin-top: 10px;
     border: 10px solid #EF0C0C;
     display: block;
     width: 80%;
