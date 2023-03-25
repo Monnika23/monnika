@@ -56,24 +56,24 @@ html{
 }
 
 .inicio{
-    background: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,55,38,1)),
+    background: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,35,38,1)),
     url(img/fondo.jpg);
     background-size: cover;
-    height: 80vh;
+    height: 100vh;
     color: #fff;
     display: flex;
     align-items: center;
 }
 .inicio .contenido-banner{
     padding: 20px;
-    background-color: #ff8080;
+    background-color: #1e2326;
     max-width: 350px;
     margin: auto;
     text-align: center;
     border-radius: 40px;
 }
 .inicio .contenido-banner img{
-    margin-top: 10px;
+    margin-top: 40px;
     border: 10px solid #EF0C0C;
     display: block;
     width: 80%;
@@ -81,7 +81,7 @@ html{
     border-radius: 100%;
 }
 .inicio .contenido-banner h1{
-    margin-top: 10px;
+    margin-top: 40px;
     font-size: 42px;
     font-family: 'Righteous';
 }
@@ -103,7 +103,7 @@ html{
     transition: .3s;
 }
 .inicio .contenido-banner .redes a:hover{
-    background-color: #EF8C0C;
+    background-color: #EF0C0C;
 }
 .sobremi{
     background-color: #1e2326;
