@@ -274,7 +274,7 @@ html{
 }
 @keyframes javascript {
     0%{width: 0%;}
-    100%{width: 75%;}
+    100%{width: 100%;}
 }
 
 .skills .skill .htmlcss{
@@ -283,7 +283,7 @@ html{
 }
 @keyframes htmlcss {
     0%{width: 0%;}
-    100%{width: 89%;}
+    100%{width: 100%;}
 }
 
 .skills .skill .photoshop{
@@ -292,7 +292,7 @@ html{
 }
 @keyframes photoshop {
     0%{width: 0%;}
-    100%{width: 95%;}
+    100%{width: 100%;}
 }
 
 .skills .skill .wordpress{
@@ -301,7 +301,7 @@ html{
 }
 @keyframes wordpress {
     0%{width: 0%;}
-    100%{width: 81%;}
+    100%{width: 95%;}
 }
 
 .skills .skill .drupal{
@@ -310,7 +310,7 @@ html{
 }
 @keyframes drupal {
     0%{width: 0%;}
-    100%{width: 55%;}
+    100%{width: 100%;}
 }
 
 .skills .skill .comunicacion{
